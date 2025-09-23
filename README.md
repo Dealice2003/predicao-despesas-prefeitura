@@ -52,8 +52,7 @@ A distribuição apresenta **alta assimetria**, com muitas transações de baixo
 ### Principais Áreas de Gasto
 - **Ações de Governo**: *Manutenção do Centro de Saúde* e *Serviços Administrativos* (≈ R$ 30 milhões).  
 - **Tipos de Despesa**: *Vencimentos e Salários* (≈ R$ 50 milhões), seguidos por *Serviços de Terceiros – Pessoa Jurídica* e *Contribuições Previdenciárias*.  
-
-➡️ Apenas **36 ações (21,8% do total)** concentraram **80% dos gastos**, confirmando a **Lei de Pareto**.
+➡️ Apenas **36 ações (21,8% do total)** concentraram **80% dos gastos**, confirmando a **Lei de Pareto**.A Lei de Pareto, também conhecida como Princípio 80/20, estabelece que, em muitos fenômenos, aproximadamente 80% dos efeitos decorrem de apenas 20% das causas. Aplicada à análise de gastos públicos, isso significa que uma pequena parcela das ações concentra a maior parte das despesas, permitindo identificar onde estão os maiores impactos financeiros.
 
 ---
 
