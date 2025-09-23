@@ -1,6 +1,6 @@
 # 📊 Aplicação de Modelos Preditivos para Prever Despesas Futuras – Salto Grande, SP
 
-Este repositório apresenta o processo de construção do dataset de despesas públicas da Prefeitura de **Salto Grande (SP)** e a aplicação de modelos de aprendizado de máquina para prever gastos futuros, com base em dados do sistema **Gemap** e do **Portal da Transparência**.
+Este repositório apresenta o processo de construção do dataset de despesas públicas da Prefeitura de **Salto Grande (SP)** e a aplicação de modelos de aprendizado de máquina para prever gastos futuros, com base em dados do sistema **Gemmap** e do **Portal da Transparência**.
 
 ---
 
