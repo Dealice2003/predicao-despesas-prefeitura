@@ -7,7 +7,7 @@ Este repositório apresenta o processo de construção do dataset de despesas p�
 ## 🔎 1. Construção do Dataset
 
 ### Fonte dos Dados
-Os dados foram extraídos do sistema **Gemap**, plataforma utilizada pela Prefeitura de Salto Grande para gestão administrativa e financeira.  
+Os dados foram extraídos do sistema **Gemmap**, plataforma utilizada pela Prefeitura de Salto Grande para gestão administrativa e financeira.  
 As mesmas informações estão disponíveis no **Portal da Transparência**, garantindo acesso público e maior confiabilidade.
 
 Inicialmente, os registros estavam distribuídos em cinco tabelas distintas, referentes aos exercícios de **2020 a 2024**.
